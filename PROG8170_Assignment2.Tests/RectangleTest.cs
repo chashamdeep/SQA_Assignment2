@@ -85,12 +85,12 @@ namespace PROG8170_Assignment2.Tests
 
         //Test Case: 8
         //Test Description: Analyze the triangle type
-        //Input Data: 8,1,12
+        //Input Data: 8,10,12
         //Expected Data: The triangle is Scalene\n
         [Test]
-        public void Test_Analyze_Input_8_1_12_Expected_Ouptut_Scalene_Triangle()
+        public void Test_Analyze_Input_8_10_12_Expected_Ouptut_Scalene_Triangle()
         {
-            string result = TriangleSolver.Analyze(8, 1, 12);
+            string result = TriangleSolver.Analyze(8, 10, 12);
             Assert.AreEqual("The triangle is Scalene\n", result);
         }
     }
