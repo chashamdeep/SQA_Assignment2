@@ -87,7 +87,7 @@ namespace PROG8170_Assignment2
             {
                 return false;
             }
-            else if (dimensionOne + dimensionTwo <= dimensionThree || dimensionOne + dimensionThree <= dimensionTwo || dimensionTwo + dimensionThree <= dimensionOne || (dimensionOne == dimensionTwo && dimensionOne == dimensionThree))
+            else if (dimensionOne + dimensionTwo >= dimensionThree || dimensionOne + dimensionThree >= dimensionTwo || dimensionTwo + dimensionThree >= dimensionOne || (dimensionOne == dimensionTwo && dimensionOne == dimensionThree))
             {
                 return true;
             }
