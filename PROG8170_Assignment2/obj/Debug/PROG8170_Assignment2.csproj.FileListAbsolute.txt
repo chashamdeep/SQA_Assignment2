@@ -1,0 +1,6 @@
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\bin\Debug\PROG8170_Assignment2.exe.config
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\bin\Debug\PROG8170_Assignment2.exe
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\bin\Debug\PROG8170_Assignment2.pdb
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\obj\Debug\PROG8170_Assignment2.csprojAssemblyReference.cache
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\obj\Debug\PROG8170_Assignment2.exe
+D:\Chasham's Laptop\Conestoga-MSD\Term2\Software Testing\Assignment2\PROG8170_Assignment2\PROG8170_Assignment2\obj\Debug\PROG8170_Assignment2.pdb
